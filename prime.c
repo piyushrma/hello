@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 int main(){
 int i,j,count=0,n;
@@ -20,4 +21,3 @@ else{
 }
 
 return 0;
-}
